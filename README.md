@@ -2,6 +2,8 @@
 
 # Exposición canina
 
+Nombres: Juan Erazo-David Ortiz
+
 Aqui podrá encontrar un programa funcional para una exposición canina.
 
 ## Resolución de problemas por computador.
